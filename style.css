@@ -37,5 +37,23 @@ h4{
     #results:hover{
         border-radius: 140px;
         width: 40%;
-        height: 50%;
+        height: 50%
+    }
+
+    #selfie1:hover{
+        border-radius: 140px;
+        width: 40%;
+        height: 70%
+    }
+
+    #selfie2:hover{
+        border-radius: 140px;
+        width: 40%;
+        height: 70%
+    }
+
+    #selfie3:hover{
+        border-radius: 140px;
+        width: 40%;
+        height: 70%
     }
